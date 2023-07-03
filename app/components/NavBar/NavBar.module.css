@@ -1,0 +1,14 @@
+.navBarContainer {
+  padding: 0px 3% 0px 3%;
+  font-size: 16px;
+  color: grey;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.navItem:active {
+  color: #1f4269;
+}
+.navItem:hover{
+  opacity: .5;
+  transition: 0.3s;
+}

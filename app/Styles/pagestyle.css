@@ -1,0 +1,21 @@
+.pageInfoContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    /* margin-bottom: 20px; */
+    background: #fff;
+    padding: 0% 5%;
+    box-shadow: -1px 5px 10px 1px rgba(221, 221, 221, 0.5);
+  }
+  .titleContainer {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .pageTitle {
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 8px;
+  }
